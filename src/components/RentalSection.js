@@ -14,7 +14,12 @@ const RentalText = styled.div`
     position: relative;
     padding: 50vh 0;
     font-size: 100px;
-    
+    }
+
+    @media screen and (max-width: 450px){
+      h1{
+        font-size: 50px;
+      }
     }
     
 `;
