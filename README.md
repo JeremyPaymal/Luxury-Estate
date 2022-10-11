@@ -10,7 +10,7 @@ Luxury Estate is a demo website for the Real Estate company.
 As a novice front end web developer, I want to train my skills. This website is a good way to practice React.
 <br>
 <br>
-For this app, I used: 
+For this app, I used: <br>
     - HTML<br>
     - CSS<br>
     - Javascript<br>
