@@ -11,10 +11,10 @@ As a novice front end web developer, I want to train my skills. This website is 
 <br>
 <br>
 For this app, I used: 
-    - HTML
-    - CSS
-    - Javascript
-    - React JS
+    - HTML<br>
+    - CSS<br>
+    - Javascript<br>
+    - React <br>
 
 
 
